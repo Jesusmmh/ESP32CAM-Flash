@@ -9,6 +9,7 @@
 
 
 //Definición de pines
+<<<<<<< HEAD
 #define LAMP 7 //Se selecciona el pin donde se encuentra el led flash
 
 //Inicialización del programa
